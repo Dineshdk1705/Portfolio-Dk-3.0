@@ -33,7 +33,7 @@ export default function About({}: Props) {
         </h4>
         <div className="font-sm overflow-scroll h-52">
           <p className="text-base">
-            I'm a passionate frontend developer with a keen eye for detail and a
+            {` I'm a passionate frontend developer with a keen eye for detail and a
             love for crafting engaging user experiences. With expertise in HTML,
             CSS, JavaScript, ReactJS, NextJS and more. I specialize in creating
             visually appealing, responsive websites. My portfolio showcases a
@@ -42,7 +42,7 @@ export default function About({}: Props) {
             up to date with the latest trends in frontend development. I'm
             excited to work on impactful projects and contribute my expertise to
             deliver exceptional results. Let's connect and discuss how I can
-            bring value to your team. Thank you !
+            bring value to your team. Thank you !`}
           </p>
         </div>
         {/* <div className=" w-28 mt-0 pt-0">

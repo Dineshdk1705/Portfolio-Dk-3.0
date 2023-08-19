@@ -12,7 +12,7 @@ const Home: NextPage = () => {
   return (
     <div className="bg-[rgb(36,36,36)] text-white h-screen snap snap-y snap-mandatory overflow-scroll scrollbar-hide z-0 scroll-smooth">
       <Head>
-        <title>Dinesh's Portfolio</title>
+        <title>{`Dinesh's Portfolio`}</title>
       </Head>
 
       <Header />
