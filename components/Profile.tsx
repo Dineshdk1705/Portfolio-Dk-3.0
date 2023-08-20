@@ -26,7 +26,7 @@ export default function Profile({}: Props) {
         <h2 className="uppercase text-sm text-gray-500 pb-2 tracking-[15px]">
           Software Developer
         </h2>
-        <h1 className="text-5xl lg:text-6xl font-semibold px-10">
+        <h1 className="text-2xl lg:text-6xl font-semibold px-10 md:text-5xl sm:text-4xl xl:text-6xl 2xl:text-8xl">
           <span>{text}</span>
           <Cursor cursorColor="#F7ABBA" />
         </h1>

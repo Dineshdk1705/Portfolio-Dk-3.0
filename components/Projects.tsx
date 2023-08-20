@@ -16,7 +16,7 @@ export default function Projects({}: Props) {
           ImageURL={FcCalculator}
           name={"Expense Tracker"}
           about={
-            "Stay ahead of the weather with our intuitive app! Search for any city and instantly access up-to-date weather information. Powered by the OpenWeatherMap API, our app delivers accurate forecasts. With a seamless searchable dropdown from Headless UI and RapidAPI's city search, finding weather updates has never been easier!"
+            "The Expense Tracker app built on ReactJS is a user-friendly and efficient financial management tool designed to help users monitor, manage, and analyze their expenses in a streamlined manner. With its modern and intuitive interface, the app offers a comprehensive solution for individuals and households to gain better control over their spending habits and financial goals."
           }
           link={"https://dineshdk1705.github.io/expensetrackerapp1/"}
         />
@@ -24,7 +24,7 @@ export default function Projects({}: Props) {
           ImageURL={FcTodoList}
           name={"Todo App"}
           about={
-            "Stay ahead of the weather with our intuitive app! Search for any city and instantly access up-to-date weather information. Powered by the OpenWeatherMap API, our app delivers accurate forecasts. With a seamless searchable dropdown from Headless UI and RapidAPI's city search, finding weather updates has never been easier!"
+            "The Todo App built on ReactJS is a user-friendly and organized task management tool designed to help individuals and teams effectively plan, track, and complete tasks and activities. Featuring a modern and intuitive interface, the app offers a seamless solution for users to stay productive and focused on their goals."
           }
           link={"https://react-type-script-todo-775a.vercel.app/"}
         />
@@ -32,7 +32,7 @@ export default function Projects({}: Props) {
           ImageURL={AiFillFacebook}
           name={"Facebook Clone"}
           about={
-            "Stay ahead of the weather with our intuitive app! Search for any city and instantly access up-to-date weather information. Powered by the OpenWeatherMap API, our app delivers accurate forecasts. With a seamless searchable dropdown from Headless UI and RapidAPI's city search, finding weather updates has never been easier!"
+            "The Facebook Clone Web App built on ReactJS is a feature-rich and visually appealing social networking platform designed to emulate the core functionalities and user experience of the popular social media platform, Facebook. With its modern design and interactive features, the app provides users with a familiar environment for connecting, sharing, and engaging with friends and peers online."
           }
           link={"https://facebook-clone-app-27031.web.app/"}
         />
@@ -40,7 +40,7 @@ export default function Projects({}: Props) {
           ImageURL={FcBusinessman}
           name={"Responsive CV"}
           about={
-            "Stay ahead of the weather with our intuitive app! Search for any city and instantly access up-to-date weather information. Powered by the OpenWeatherMap API, our app delivers accurate forecasts. With a seamless searchable dropdown from Headless UI and RapidAPI's city search, finding weather updates has never been easier!"
+            "The Responsive CV Web App, built using HTML, CSS, and JavaScript, is a versatile and visually appealing online platform designed to showcase an individual's professional background, skills, work experience, education, and accomplishments in an interactive and accessible manner. This web app adapts seamlessly to various devices and screen sizes, ensuring that the user's CV can be easily viewed and appreciated by potential employers or collaborators."
           }
           link={"https://dineshdk1705.github.io/myresponsivecv.github.io/"}
         />
